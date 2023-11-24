@@ -18,7 +18,7 @@
 ---------
 ### Слияние веток
 ![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s6.jpeg?raw=true "9")
-### ![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s003.jpeg?raw=true "9")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s003.jpeg?raw=true "09")
 ---------
 ### Удаление побочной ветки
 ![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s7.jpeg?raw=true "10")
