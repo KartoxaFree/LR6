@@ -17,19 +17,19 @@
 ![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s5.jpeg?raw=true "7-8")
 ---------
 ### Слияние веток
-![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s5.jpeg?raw=true "9")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s6.jpeg?raw=true "9")
 ---------
 ### Удаление побочной ветки
-![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s6.jpeg?raw=true "10")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s7.jpeg?raw=true "10")
 ---------
 ### Еще несколько коммитов
-![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s7.jpeg?raw=true "11")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s8.jpeg?raw=true "11")
 ---------
 ### Откат коммита
-![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s8.jpeg?raw=true "12")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s9.jpeg?raw=true "12")
 -----------
 ### Создание ветки для отчета
-![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s9.jpeg?raw=true "13")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s10.jpeg?raw=true "13")
 ### Оформление README
 ![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s11.jpeg?raw=true "14")
 ### История операций с сортировкой
