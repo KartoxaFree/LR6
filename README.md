@@ -33,7 +33,7 @@
 ### Оформление README
 ![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s11.jpeg?raw=true "14")
 ### История операций с сортировкой
-![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/photo_2023-11-24 10.45.50.jpeg?raw=true "15")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s12.jpeg?raw=true "15")
 ----------
 ### Выгрузка коммитов в онлайн
 ![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s12.jpeg?raw=true "16")
