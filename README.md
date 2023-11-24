@@ -39,7 +39,7 @@
 ![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s12.jpeg?raw=true "16")
 ---------
 ## Список используемых команд
-git config --global user.name (установка имени)
+git config --global user.name (установка имени) \n
 git config --global user.email (установка почты)
 git clone "ссылка" (копирование репозитория)
 cd "папка" (переход в нужную папку)
