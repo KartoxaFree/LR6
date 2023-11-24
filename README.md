@@ -14,7 +14,7 @@
 ![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s3.jpeg?raw=true "6")
 ---------
 ### История операций и последние изменения
-![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s4.jpeg?raw=true "7-8")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s5.jpeg?raw=true "7-8")
 ---------
 ### Слияние веток
 ![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s5.jpeg?raw=true "9")
