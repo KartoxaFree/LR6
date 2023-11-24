@@ -1,6 +1,6 @@
 # LR6
 Лабораторная работа №6
-### Попов А.м. 4218
+### Лайхтман В.Д. 4217
 ---------
 ## Цель работы
 изучение базовых возможностей системы управления версиями, опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.
@@ -26,14 +26,14 @@
 ![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s7.jpeg?raw=true "11")
 ---------
 ### Откат коммита
-![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/jpeg?raw=true "12")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s8.jpeg?raw=true "12")
 -----------
 ### Создание ветки для отчета
 ![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s9.jpeg?raw=true "13")
 ### Оформление README
-![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s10.jpeg?raw=true "14")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s11.jpeg?raw=true "14")
 ### История операций с сортировкой
-![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s11.jpeg?raw=true "15")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s12.jpeg?raw=true "15")
 ----------
 ### Выгрузка коммитов в онлайн
 ![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s12.jpeg?raw=true "16")
