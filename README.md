@@ -33,10 +33,10 @@
 ### Оформление README
 ![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s11.jpeg?raw=true "14")
 ### История операций с сортировкой
-![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s12.jpeg?raw=true "15")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s001.jpeg?raw=true "15")
 ----------
 ### Выгрузка коммитов в онлайн
-![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s12.jpeg?raw=true "16")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s002.jpeg?raw=true "16")
 ---------
 ## Список используемых команд
 ### git config --global user.name (установка имени)
